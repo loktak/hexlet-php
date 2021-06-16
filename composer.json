@@ -1,0 +1,16 @@
+{
+    "name": "loktak/hexlet-php",
+    "description": "\"учебный проект Хекслет\"",
+    "autoload": {
+        "psr-4": {
+            "Loktak\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Spirin Arseny",
+            "email": "spirinars@ya.ru"
+        }
+    ],
+    "require": {}
+}
